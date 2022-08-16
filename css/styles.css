@@ -1,5 +1,5 @@
 body {
-    background-color: powderblue;
+    background-color: #F7ECDE;
 }
 
 hr {
@@ -8,5 +8,14 @@ hr {
     border-style: dotted none none;
     border-width: 6px;
     border-color: yellow;
-    background-color: powderblue;
+    background-color: #F7ECDE;
+}
+h1{
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
 }
