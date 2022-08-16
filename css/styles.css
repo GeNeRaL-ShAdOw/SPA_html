@@ -1,0 +1,12 @@
+body {
+    background-color: powderblue;
+}
+
+hr {
+    height: 0px;
+    width: 10%;
+    border-style: dotted none none;
+    border-width: 6px;
+    border-color: yellow;
+    background-color: powderblue;
+}
